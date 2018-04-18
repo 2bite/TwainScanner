@@ -7,13 +7,13 @@
 # Настройка
 Настройки программы хранятся в файле TwainScanner.ini:
 [Global]
-SourceIndex=0 - *порядковый номер принтера*
-DPI=300 - *качество*
-PixelType=BW - *цвет BW - черно-белый, RGB - цветной*
-ShowUI=false - *показывать интерфейс*
-ImageWidth=790 - *размер изображения по горизонтали*
-ImageHeight=1117 - *размер изображения по вертикали*
-ImageQuality=95 - *качество, перед сжатием в pdf*
+SourceIndex=0 - *порядковый номер принтера* <br />
+DPI=300 - *качество* <br />
+PixelType=BW - *цвет BW - черно-белый, RGB - цветной* <br />
+ShowUI=false - *показывать интерфейс* <br />
+ImageWidth=790 - *размер изображения по горизонтали* <br />
+ImageHeight=1117 - *размер изображения по вертикали* <br />
+ImageQuality=95 - *качество, перед сжатием в pdf* <br />
 
 ***Примечание***
 - параметром ImageQuality можно установить двойную степень сжатия, обратите внимание, что качество картинки при этом пострадает.
@@ -24,5 +24,5 @@ ImageQuality=95 - *качество, перед сжатием в pdf*
 ***Файл-Настройки-Сканирование и печать***
 
 # Стороннее ПО:
-Saraff.Twain - https://github.com/saraff-9EB1047A4BEB4cef8506B29BA325BD5A/Saraff.Twain.NET
+Saraff.Twain - https://github.com/saraff-9EB1047A4BEB4cef8506B29BA325BD5A/Saraff.Twain.NET <br />
 Netpbm - http://netpbm.sourceforge.net/#translations
